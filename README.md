@@ -5,4 +5,4 @@ AR × Medical Imaging × Intelligent Systems
 - AR-guided vascular puncture support system
 - In-situ visualization using Meta Quest 3
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsahiKomata&theme=tokyonight)
+[![Asahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsahiKomata)](https://github.com/anuraghazra/github-readme-stats)
