@@ -10,8 +10,11 @@ AR × Medical Imaging × Intelligent Systems
 ## 💻 Programming Languages
 ![Programming](https://skillicons.dev/icons?i=python,cpp,cs,ts,js,r,matlab,bash,arduino&perline=8)
 
-## ⚙ Frameworks & Libraries
-![Frameworks](https://skillicons.dev/icons?i=unity,react,nodejs,pytorch,opencv,tailwind,hono)
+## 🧠 AI & Data Science
+![AI](https://skillicons.dev/icons?i=pytorch,opencv)
 
-## 🛠 DB / Dev Tools
-![Tools](https://skillicons.dev/icons?i=gcp,docker,cloudflare,sqlite,git,github,linux,vercel)
+## 🎮 Frameworks & Engines
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,unity,tailwind)
+
+## ☁ Cloud & Dev Tools
+![Cloud](https://skillicons.dev/icons?i=gcp,docker,cloudflare,sqlite,git,github,linux,vercel,vscode,visualstudio,figma&perline=6)
