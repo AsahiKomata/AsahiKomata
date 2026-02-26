@@ -1,6 +1,5 @@
 # About Me
-AR × Medical Imaging × Intelligent Systems 
-
+AR × Medical Imaging × Intelligent Systems <br>
 Building real-time perception and visualization technologies.
 
 ## 🔬 Research
