@@ -9,10 +9,10 @@ Building real-time perception and visualization technologies.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsahiKomata&theme=tokyonight)
 
 ## 💻 Programming Languages
-![Programming](https://skillicons.dev/icons?i=python,cpp,cs,ts,js,r,matlab,bash,arduino&perline=10)
+![Programming](https://skillicons.dev/icons?i=python,cpp,cs,ts,js,r,matlab,bash,arduino&perline=9)
 
 ## 🧠 Frameworks & AI
 ![Stack](https://skillicons.dev/icons?i=pytorch,opencv,unity,react,nodejs,tailwind)
 
 ## ☁ Cloud & Dev Tools
-![Cloud](https://skillicons.dev/icons?i=gcp,docker,cloudflare,sqlite,git,github,linux,raspberrypi,vercel,vscode,visualstudio,figma&perline=10)
+![Cloud](https://skillicons.dev/icons?i=gcp,docker,cloudflare,sqlite,git,github,linux,raspberrypi,vercel,vscode,visualstudio,figma&perline=9)
