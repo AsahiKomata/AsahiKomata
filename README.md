@@ -6,7 +6,7 @@ Building real-time perception and visualization technologies.
 - Augmented reality in ultrasound-guided puncture support system
 - In-situ visualization using Meta Quest 3
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsahiKomata&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsahiKomata&theme=tokyonight&layout=compact)
 
 ## 💻 Programming Languages
 ![Programming](https://skillicons.dev/icons?i=python,cpp,cs,ts,js,r,matlab,bash,arduino&perline=9)
