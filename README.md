@@ -8,6 +8,11 @@ Building real-time perception and visualization technologies.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsahiKomata&theme=tokyonight&layout=compact)
 
+
+**Skill Levels**  
+Core Skills: technologies I regularly use in research and development  
+Used Before: technologies I have used in projects, coursework, or experiments
+
 ## 💻 Programming Languages
 ### Core Skills
 ![Programming Core](https://skillicons.dev/icons?i=python,cs,cpp&perline=9)
@@ -28,7 +33,3 @@ Building real-time perception and visualization technologies.
 
 ### Used Before
 ![Cloud Used Before](https://skillicons.dev/icons?i=cloudflare,sqlite,raspberrypi,vercel,figma&perline=9)
-
-
-> Core Skills: technologies I use regularly in research and development  
-> Used Before: technologies I have worked with in projects, coursework, or experiments
