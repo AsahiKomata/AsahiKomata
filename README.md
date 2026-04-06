@@ -8,6 +8,8 @@ Building real-time perception and visualization technologies.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsahiKomata&theme=tokyonight&layout=compact)
 
+> Core Skills: technologies I use regularly in research and development  
+> Used Before: technologies I have worked with in projects, coursework, or experiments
 ## 💻 Programming Languages
 ![Programming](https://skillicons.dev/icons?i=python,cpp,cs,ts,js,r,matlab,bash,arduino&perline=9)
 
